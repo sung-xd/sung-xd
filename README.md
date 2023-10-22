@@ -4,7 +4,7 @@
   <img src="GIF/Hi.gif" width="40px" />
 </h1>
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1000" height="8">
-<img align="right" height="350" width="500" alt="" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwall.alphacoders.com%2Ftag%2Fsung-jin%25E2%2580%2593woo-wallpapers&psig=AOvVaw0tgogohspJ4Pn5t05ixVbr&ust=1698057430563000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDoqoG7iYIDFQAAAAAdAAAAABAK"/>
+<img align="right" height="350" width="550" alt="" src="https://i.redd.it/a54dveg70qv41.png"/>
 
 <p align="left">
   hi, i'm <a href="https://github.com/sung-xd"> Sung Jin-Woo </a> , a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
@@ -34,8 +34,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/sung-xd?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/sung-xd?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
@@ -69,24 +69,12 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ### - Activity...
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=trinib&color=0E9C47&style=for-the-badge">
-
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
-
-<!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
-<h4 align="right">
-<details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
-<p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/github-metrics.svg">
-</p>
-</details>
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
