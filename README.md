@@ -12,7 +12,7 @@
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 </p>
 
-- 💼 any freelance work? do reach, [email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) :)
+- 💼 any freelance work? do reach, [email](https://mail.google.com/) :)
 - 💬 ask me about anything, i am happy to help;
 
 
