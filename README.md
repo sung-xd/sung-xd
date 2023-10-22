@@ -45,7 +45,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ### - Languages and Tools...
 
-<p align="center">
+<p align="right">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
@@ -62,3 +62,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
+
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31t4yllj6he7uqj3zrd7kj3pcpny&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
